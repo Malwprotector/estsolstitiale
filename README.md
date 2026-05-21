@@ -10,41 +10,47 @@ Estsolstitiale is designed for people who want the convenience of OneDrive synch
 
 ## Table of Contents
 
-- #the-problem
-- #what-estsolstitiale-solves
-- #why-this-matters
-- #the-name
-- #features
-- #requirements
-- #installation
-  - #linux-tutorial
-  - #macos-tutorial
-  - #windows--wsl-tutorial
-- #directory-structure
-- #first-run
-- #generating-an-age-key
-- #running-the-graphical-interface
-- #running-in-cli-mode
-- #direct-cli-commands
-- #typical-workflow
-- #recovering-files-if-the-local-machine-is-lost
-- #understanding-how-the-script-works
-  - #configuration
-  - #public-key-and-private-key
-  - #encryption-flow
-  - #decryption-flow
-  - #dry-run-mode
-  - #gui-mode
-  - #cli-mode
-- #security-model
-- #privacy-limits
-- #important-safety-notes
-- #recommended-onedrive-configuration
-- #troubleshooting
-- #example
-- #design-philosophy
-- #license
-- #short-summary
+* \#the-problem
+* \#what-estsolstitiale-solves
+* \#why-this-matters
+* \#the-name
+* \#features
+* \#requirements
+  * \#required
+  * \#optional-for-gui
+* \#installation
+* \#linux-tutorial
+  * \#debian--ubuntu--linux-mint--pop\_os
+  * \#fedora
+  * \#arch-linux--manjaro
+* \#macos-tutorial
+* \#windows--wsl-tutorial
+* \#directory-structure
+* \#first-run
+* \#generating-an-age-key
+* \#running-the-graphical-interface
+* \#running-in-cli-mode
+* \#direct-cli-commands
+* \#typical-workflow
+* \#recovering-files-if-the-local-machine-is-lost
+* \#understanding-how-the-script-works
+  * \#configuration
+  * \#public-key-and-private-key
+  * \#encryption-flow
+  * \#decryption-flow
+* \#dry-run-mode
+* \#gui-mode
+* \#cli-mode
+* \#security-model
+* \#privacy-limits
+* \#important-safety-notes
+* \#recommended-onedrive-configuration
+* \#troubleshooting
+* \#example
+* \#design-philosophy
+* \#license
+* \#short-summary
+
 
 ---
 
@@ -60,9 +66,9 @@ Microsoft 365 administrators and compliance teams can, depending on permissions 
 
 Microsoft Q&A also states that an admin can access files stored in OneDrive for Business accounts in an organization in specific situations such as security or compliance investigations, and that the user may not necessarily receive a notification. 
 
-This does not mean that every admin is reading everyone’s files all the time. But it does mean that **the organization’s OneDrive is not the same as a private encrypted vault controlled only by you**.
+This does not mean that every admin is reading everyone’s files all the time. But it does mean that the organization’s OneDrive is not the same as a private encrypted vault controlled only by you.
 
-For sensitive personal notes, academic documents, research files, administrative documents, private archives, or personal backups, this is a serious privacy concern.
+For sensitive personal notes, academic documents, research files, administrative documents, private archives, or personal backups, this can be a concern.
 
 ---
 
@@ -129,13 +135,6 @@ This makes OneDrive act more like a transport and storage layer, not a trusted p
 ## The Name
 
 The name **Estsolstitiale** is inspired by *Amphimallon solstitiale*, also known as the **summer chafer** or **European June beetle**. This beetle belongs to the scarab family and is commonly associated with summer evenings, hedgerows, gardens, and dusk activity.
-
-The symbolism fits the project:
-
-* the beetle has a protective outer body, like a natural armor
-* Estsolstitiale gives files a cryptographic shell before exposing them to the cloud
-* the insect is associated with hedgerows, gardens, twilight, and hidden natural spaces
-* the project follows the same idea: stay quiet, stay protected, do not expose more than needed
 
 In short:
 
@@ -1618,29 +1617,3 @@ private note
 ```
 
 ***
-
-## Design Philosophy
-
-Estsolstitiale is intentionally simple.
-
-It avoids:
-
-* databases
-* background daemons
-* complex state machines
-* custom cloud protocols
-* heavy GUI frameworks
-* opaque automation
-
-It uses:
-
-* the filesystem
-* `age`
-* the existing OneDrive Linux client
-* clear folders
-* predictable file paths
-* visible logs
-
-The goal is not to replace OneDrive.
-
-The goal is to make OneDrive safer to use when the storage provider is not fully trusted.# estsolstitiale

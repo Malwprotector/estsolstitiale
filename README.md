@@ -1,42 +1,15 @@
-<h1 align="center">Estsolstitiale</h1>
+<table>
+<tr>
+<td><img src="https://github.com/Malwprotector/estsolstitiale/blob/main/img.png?raw=true" width="250"></td>
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
+<td style="vertical-align: top; font-size:12px;">
+<pre style="margin:0; white-space: pre-wrap;">
+...
+</pre>
+</td>
 
-  <img 
-    src="https://github.com/Malwprotector/estsolstitiale/blob/main/img.png?raw=true"
-    style="width: 250px; height: auto;"
-  >
-
-  <div style="max-width: 500px; font-size: 12px; line-height: 1.3;">
-
-    <pre style="margin: 0; white-space: pre-wrap;">
-$ python3 estsolstitiale.py cli
-First use detected.
-
-==============================
-
-=Estsolstitiale Configuration=
-
-==============================
-
-Directories used:
-- Base      : /home/martin/estsolstitiale
-- Source    : /home/martin/estsolstitiale/source
-- Encrypted : /home/martin/OneDrive/encrypted
-- Decrypted : /home/martin/estsolstitiale/decrypted
-- Config    : /home/martin/estsolstitiale/config
-
-Step 1: age private key
-
-You need to provide the path to your existing age private key.
-Common example: ~/.config/age/key.txt
-
-Path to the age private key:
-    </pre>
-
-  </div>
-
-</div>
+</tr>
+</table>
 
 
 **Estsolstitiale** is a minimal privacy-oriented encrypted synchronization helper for OneDrive.

@@ -9,47 +9,39 @@ Estsolstitiale is designed for people who want the convenience of OneDrive synch
 ---
 
 ## Table of Contents
+- [What Estsolstitiale Solves](#what-estsolstitiale-solves)
+- [Why This Matters](#why-this-matters)
+- [The Name](#the-name)
+- [Features](#features)
+- [Requirements](#requirements)
+  - [Required](#required)
+  - [Optional for GUI](#optional-for-gui)
+- [Installation](#installation)
+- [Linux Tutorial](#linux-tutorial)
+  - [Debian / Ubuntu / Linux Mint / Pop!_OS](#debian--ubuntu--linux-mint--pop_os)
+  - [Fedora](#fedora)
+  - [Arch Linux / Manjaro](#arch-linux--manjaro)
+- [macOS Tutorial](#macos-tutorial)
+- [Windows / WSL Tutorial](#windows--wsl-tutorial)
+- [Directory Structure](#directory-structure)
+- [First Run](#first-run)
+- [Generating an age Key](#generating-an-age-key)
+- [Running the Graphical Interface](#running-the-graphical-interface)
+- [Running in CLI Mode](#running-in-cli-mode)
+- [Direct CLI Commands](#direct-cli-commands)
+- [Typical Workflow](#typical-workflow)
+- [Recovering Files if the Local Machine Is Lost](#recovering-files-if-the-local-machine-is-lost)
+- [Understanding How the Script Works](#understanding-how-the-script-works)
+  - [Configuration](#configuration)
+  - [Public Key and Private Key](#public-key-and-private-key)
+  - [Encryption Flow](#encryption-flow)
+  - [Decryption Flow](#decryption-flow)
+- [Dry-Run Mode](#dry-run-mode)
+- [GUI Mode](#gui-mode)
+- [CLI Mode](#cli-mode)
+- [Security Model](#security
 
-* \#the-problem
-* \#what-estsolstitiale-solves
-* \#why-this-matters
-* \#the-name
-* \#features
-* \#requirements
-  * \#required
-  * \#optional-for-gui
-* \#installation
-* \#linux-tutorial
-  * \#debian--ubuntu--linux-mint--pop\_os
-  * \#fedora
-  * \#arch-linux--manjaro
-* \#macos-tutorial
-* \#windows--wsl-tutorial
-* \#directory-structure
-* \#first-run
-* \#generating-an-age-key
-* \#running-the-graphical-interface
-* \#running-in-cli-mode
-* \#direct-cli-commands
-* \#typical-workflow
-* \#recovering-files-if-the-local-machine-is-lost
-* \#understanding-how-the-script-works
-  * \#configuration
-  * \#public-key-and-private-key
-  * \#encryption-flow
-  * \#decryption-flow
-* \#dry-run-mode
-* \#gui-mode
-* \#cli-mode
-* \#security-model
-* \#privacy-limits
-* \#important-safety-notes
-* \#recommended-onedrive-configuration
-* \#troubleshooting
-* \#example
-* \#design-philosophy
-* \#license
-* \#short-summary
+
 
 
 ---

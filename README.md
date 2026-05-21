@@ -7,9 +7,9 @@
 $ python3 estsolstitiale.py cli
 First use detected.
 
-==============================
+-============================-
 Estsolstitiale Configuration
-==============================
+-============================-
 
 Directories used:
 - Base      : /home/martin/estsolstitiale

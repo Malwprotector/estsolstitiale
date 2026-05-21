@@ -2,10 +2,14 @@
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
 
-  <img src="https://github.com/Malwprotector/estsolstitiale/blob/main/img.png?raw=true"
-       style="width: 250px; height: auto;">
+  <img 
+    src="https://github.com/Malwprotector/estsolstitiale/blob/main/img.png?raw=true"
+    style="width: 250px; height: auto;"
+  >
 
-  <pre style="font-size: 12px; max-width: 500px;">
+  <div style="max-width: 500px; font-size: 12px; line-height: 1.3;">
+
+    <pre style="margin: 0; white-space: pre-wrap;">
 $ python3 estsolstitiale.py cli
 First use detected.
 
@@ -28,7 +32,9 @@ You need to provide the path to your existing age private key.
 Common example: ~/.config/age/key.txt
 
 Path to the age private key:
-  </pre>
+    </pre>
+
+  </div>
 
 </div>
 

@@ -19,7 +19,7 @@ Config    : /home/user/estsolstitiale/config
 Step 1: age private key
 You need to provide the path to your existing age private key.
 Common example: ~/.config/age/key.txt
-===Path to the age private key===: 
+$ Path to the age private key : 
 </pre>
 </td>
 

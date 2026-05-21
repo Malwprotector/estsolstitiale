@@ -1,10 +1,11 @@
-<center>
-  Estsolstitiale
-</center>
+<h1 align="center">Estsolstitiale</h1>
 
-![img](https://github.com/Malwprotector/estsolstitiale/blob/main/img.png?raw=true)
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
 
-<pre>
+  <img src="https://github.com/Malwprotector/estsolstitiale/blob/main/img.png?raw=true"
+       style="width: 250px; height: auto;">
+
+  <pre style="font-size: 12px; max-width: 500px;">
 $ python3 estsolstitiale.py cli
 First use detected.
 
@@ -26,8 +27,10 @@ Step 1: age private key
 You need to provide the path to your existing age private key.
 Common example: ~/.config/age/key.txt
 
-Path to the age private key:      
-</pre>
+Path to the age private key:
+  </pre>
+
+</div>
 
 
 **Estsolstitiale** is a minimal privacy-oriented encrypted synchronization helper for OneDrive.

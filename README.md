@@ -1,7 +1,7 @@
 <center>
   Estsolstitiale
 </center>
-<div align="center">
+![img](https://github.com/Malwprotector/estsolstitiale/blob/main/img.png?raw=true)
 <pre>
 $ python3 estsolstitiale.py cli
 First use detected.
@@ -27,7 +27,6 @@ Common example: ~/.config/age/key.txt
 Path to the age private key:      
 </pre>
 
-</div>
 
 **Estsolstitiale** is a minimal privacy-oriented encrypted synchronization helper for OneDrive.
 

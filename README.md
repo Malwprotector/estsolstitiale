@@ -10,11 +10,11 @@ First use detected.
 Estsolstitiale Configuration
 
 Directories used:
-- Base      : /home/user/estsolstitiale
-- Source    : /home/user/estsolstitiale/source
-- Encrypted : /home/user/OneDrive/encrypted
-- Decrypted : /home/user/estsolstitiale/decrypted
-- Config    : /home/user/estsolstitiale/config
+Base      : /home/user/estsolstitiale
+Source    : /home/user/estsolstitiale/source
+Encrypted : /home/user/OneDrive/encrypted
+Decrypted : /home/user/estsolstitiale/decrypted
+Config    : /home/user/estsolstitiale/config
 
 Step 1: age private key
 

@@ -159,11 +159,23 @@ This makes OneDrive act more like a transport and storage layer, not a trusted p
 
 ## The Name
 
+<table>
+<tr>
+<td><img src="https://github.com/Malwprotector/estsolstitiale/blob/main/img.png?raw=true" width="250"></td>
+
+<td style="vertical-align: top; font-size:12px;">
+<pre style="margin:0; white-space: pre-wrap;">
 The name **Estsolstitiale** is inspired by *Amphimallon solstitiale*, also known as the **summer chafer** or **European June beetle**. This beetle belongs to the scarab family and is commonly associated with summer evenings, hedgerows, gardens, and dusk activity.
 
 In short:
 
 > Estsolstitiale protects your files with a shell before they leave your machine.
+</pre>
+</td>
+
+</tr>
+</table>
+
 
 ***
 

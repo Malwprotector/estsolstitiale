@@ -27,7 +27,7 @@ Common example: ~/.config/age/key.txt
 </table>
 
 
-**Estsolstitiale** is a minimal privacy-oriented encrypted synchronization helper for OneDrive.
+**Estsolstitiale** is a minimal privacy-oriented encrypted synchronization system for OneDrive cloud.
 
 It encrypts your local files with [`age`](https://github.com/FiloSottile/age) before they are uploaded to OneDrive, then lets you decrypt them locally when needed. `age` is a simple, modern and secure file encryption tool with small explicit keys and Unix-style composability. 
 

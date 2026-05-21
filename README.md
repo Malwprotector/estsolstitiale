@@ -39,7 +39,13 @@ Estsolstitiale is designed for people who want the convenience of OneDrive synch
 - [Dry-Run Mode](#dry-run-mode)
 - [GUI Mode](#gui-mode)
 - [CLI Mode](#cli-mode)
-- [Security Model](#security
+- [Security Model](#security-model)
+- [Privacy Limits](#privacy-limits)
+- [Important Safety Notes](#important-safety-notes)
+- [Recommended OneDrive Configuration](#recommended-onedrive-configuration)
+- [Troubleshooting](#troubleshooting)
+- [Example](#example)
+
 
 
 

@@ -7,16 +7,14 @@
 $ python3 estsolstitiale.py cli
 First use detected.
 
--============================-
 Estsolstitiale Configuration
--============================-
 
 Directories used:
-- Base      : /home/martin/estsolstitiale
-- Source    : /home/martin/estsolstitiale/source
-- Encrypted : /home/martin/OneDrive/encrypted
-- Decrypted : /home/martin/estsolstitiale/decrypted
-- Config    : /home/martin/estsolstitiale/config
+- Base      : /home/user/estsolstitiale
+- Source    : /home/user/estsolstitiale/source
+- Encrypted : /home/user/OneDrive/encrypted
+- Decrypted : /home/user/estsolstitiale/decrypted
+- Config    : /home/user/estsolstitiale/config
 
 Step 1: age private key
 

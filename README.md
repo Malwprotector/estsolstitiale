@@ -3,35 +3,28 @@
 </center>
 <div align="center">
 <pre>
-                  @              %                 
-         %         %            %                  
-           *                 *        %#           
-            =         *      @      #%             
-            @%        %@=@@*%       @%             
-            @#%     .+**%*%@@*@     %%             
-             *@      @#@*+*@@@%     =@             
-              =   +%%#+*+***@@@@*   @              
-               +%+%%*++*****@@@@@%%+               
-                 =%+*+*+**#*@@@@@#                 
-                  %%@@@%***@@@@@%                  
-            %%%@@=**+++*@@@*@@*@@#@%%%#            
-        -**%     @@%*%@*#@*@@@@%@@*     @@         
-                %%@******@*@@@@@@@@                
-                #@%**+*++@*@@@@@@@#                
-                #@@******@*@@@@@@@%                
-                *@@***#+#@*@@@@@@@%                
-               @%@%**%#*%@**@@@%@@%@%              
-              =@*@@#%#**@@+@@@@@@@%% %             
-              @  @@#****@@+@@@@@@@%  =             
-             @@  %@@**#%@@%@@@%@@*  =+#            
-             %@   @@@@@@@@@@@@@@*   @*@            
-             *@    :%@%@%%%%@#%*    #*@            
-             *@          #*         #+#            
-                                    +@             
-             %                       %*            
-            #                          @           
-                                        %@         
-         
+$ python3 estsolstitiale.py cli
+First use detected.
+
+==============================
+
+=Estsolstitiale Configuration=
+
+==============================
+
+Directories used:
+- Base      : /home/martin/estsolstitiale
+- Source    : /home/martin/estsolstitiale/source
+- Encrypted : /home/martin/OneDrive/encrypted
+- Decrypted : /home/martin/estsolstitiale/decrypted
+- Config    : /home/martin/estsolstitiale/config
+
+Step 1: age private key
+
+You need to provide the path to your existing age private key.
+Common example: ~/.config/age/key.txt
+
+Path to the age private key:      
 </pre>
 
 </div>

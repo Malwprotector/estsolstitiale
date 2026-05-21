@@ -1,7 +1,9 @@
 <center>
   Estsolstitiale
 </center>
+
 ![img](https://github.com/Malwprotector/estsolstitiale/blob/main/img.png?raw=true)
+
 <pre>
 $ python3 estsolstitiale.py cli
 First use detected.

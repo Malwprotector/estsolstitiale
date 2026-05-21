@@ -173,7 +173,9 @@ This makes OneDrive act more like a transport and storage layer, not a trusted p
 
 <td style="vertical-align: top; padding-left: 15px;">
 
-The name **Estsolstitiale** is inspired by *Amphimallon solstitiale*, also known as the **summer chafer** or **European June beetle**. This beetle belongs to the scarab family and is commonly associated with summer evenings, hedgerows, gardens, and dusk activity.
+The name **Estsolstitiale** is inspired by *Amphimallon solstitiale*, also known as the **summer chafer** or **European June beetle**. This species belongs to the scarab family (Scarabaeidae), a group of beetles characterized by their hardened forewings (elytra), which form a protective outer covering. It is commonly associated with summer evenings, hedgerows, gardens, and dusk activity, where it emerges in large numbers and is often attracted to light.
+
+The connection to the project comes from several of these traits. Like the beetle’s protective outer covering, Estsolstitiale wraps your files in a cryptographic shell before exposing them outside your system. Its nocturnal activity and attraction to light also mirror the idea of the software operating quietly in the background, interacting with external systems (like the cloud) without revealing sensitive things. Additionally, just as the larval stage develops hidden underground before emerging, your data remains protected and unseen until you explicitly choose to decrypt it.
 
 In short:
 

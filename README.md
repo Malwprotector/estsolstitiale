@@ -167,7 +167,7 @@ This makes OneDrive act more like a transport and storage layer, not a trusted p
   src="https://github.com/Malwprotector/estsolstitiale/blob/main/solstitialis01.jpeg?raw=true"
   width="180">
   <p style="margin-top: 8px; font-size: 13px;">
-    Ceci est le texte sous l’image
+    <i>Amphimallon solstitiale.</i> © entomart
   </p>
 </td>
 
